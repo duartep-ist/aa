@@ -1,0 +1,13 @@
+[
+    {
+        "vulnerability": "TryCatchTest",
+        "sources": [
+            "source"
+        ],
+        "sanitizers": [],
+        "sinks": [
+            "sink"
+        ],
+        "implicit": "no"
+    }
+]
