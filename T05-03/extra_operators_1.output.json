@@ -1,0 +1,72 @@
+[
+    {
+        "vulnerability": "A_1",
+        "source": [
+            "source1",
+            1
+        ],
+        "sink": [
+            "sink",
+            1
+        ],
+        "unsanitized_flows": "yes",
+        "sanitized_flows": [],
+        "implicit": "no"
+    },
+    {
+        "vulnerability": "A_2",
+        "source": [
+            "source2",
+            1
+        ],
+        "sink": [
+            "sink",
+            1
+        ],
+        "unsanitized_flows": "yes",
+        "sanitized_flows": [],
+        "implicit": "no"
+    },
+    {
+        "vulnerability": "A_3",
+        "source": [
+            "source1",
+            2
+        ],
+        "sink": [
+            "sink",
+            2
+        ],
+        "unsanitized_flows": "yes",
+        "sanitized_flows": [],
+        "implicit": "no"
+    },
+    {
+        "vulnerability": "A_4",
+        "source": [
+            "source1",
+            3
+        ],
+        "sink": [
+            "sink",
+            3
+        ],
+        "unsanitized_flows": "yes",
+        "sanitized_flows": [],
+        "implicit": "no"
+    },
+    {
+        "vulnerability": "A_5",
+        "source": [
+            "source2",
+            3
+        ],
+        "sink": [
+            "sink",
+            3
+        ],
+        "unsanitized_flows": "yes",
+        "sanitized_flows": [],
+        "implicit": "no"
+    }
+]
